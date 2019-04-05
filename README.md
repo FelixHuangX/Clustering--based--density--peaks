@@ -9,7 +9,8 @@ This cluster repository included a data set named `rawdata.dat` and a algorithm 
 ![image](https://github.com/FelixHuangX/Clustering--based--density--peaks/blob/master/rawdata.jpg)
 
 From the right picture,we can set k as 5,and look at the right picture below,the cluster result is pretty good.
-
+![iamge](https://github.com/FelixHuangX/Clustering--based--density--peaks/blob/master/cluster.jpg)
+This cluster method is very efficient for nonspherical distribution.
 What's more,I also add something new to this algorithm it's working on image clustering like K-means.
 
 # Executing
