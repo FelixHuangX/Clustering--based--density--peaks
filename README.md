@@ -5,7 +5,9 @@ A clustering algorithms  by fast search and find of density peaks
 《Clustering by fast search and find of density peaks》
 
 # Including
-This cluster repository included a data set named `rawdata.dat` and a algorithm to cluster those data.Raw sample distribution like the letf picture below.
+This cluster repository included a data set named `rawdata.dat` and a algorithm to cluster those data.
+Raw sample distribution like the letf picture below.
+
 ![image](https://github.com/FelixHuangX/Clustering--based--density--peaks/blob/master/rawdata.jpg)
 
 From the right picture,we can set k as 5,and look at the right picture below,the cluster result is pretty good.
