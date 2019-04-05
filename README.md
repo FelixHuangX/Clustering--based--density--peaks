@@ -10,8 +10,9 @@ This cluster repository included a data set named `rawdata.dat` and a algorithm 
 
 From the right picture,we can set k as 5,and look at the right picture below,the cluster result is pretty good.
 ![iamge](https://github.com/FelixHuangX/Clustering--based--density--peaks/blob/master/cluster.jpg)
+
 This cluster method is very efficient for nonspherical distribution.
-What's more,I also add something new to this algorithm it's working on image clustering like K-means.
+What's more,I also add something new to this algorithm it's working on image clustering like K-means.Take a try!
 
 # Executing
 All codes of this cluster algorithm written by MATLAB, and my code included many annotations, just follow the code and those detailed annotations.  
